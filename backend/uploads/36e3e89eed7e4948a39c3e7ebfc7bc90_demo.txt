@@ -1,0 +1,8 @@
+Well: SYN-WELL-A02
+Date: 2024-07-01
+MD: 920 m
+Formation: SYN-FM-BRAVO
+torque spike observed
+Mitigation: reduced RPM
+Outcome: torque stabilized
+Lesson learned: watch interbeds.

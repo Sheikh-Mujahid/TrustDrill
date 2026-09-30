@@ -1,0 +1,20 @@
+================================================================================
+SYNTHETIC DRILLING EVENT REPORT (DEMO USE ONLY - FICTIONAL DATA)
+================================================================================
+Well: SYN-WELL-A05
+Date: 2024-06-20
+Measured Depth (MD): 2150.0 m
+True Vertical Depth (TVD): 2080.0 m
+Formation: SYN-FM-CHARLIE
+Event Type: stuck pipe / differential sticking
+
+Operational Summary:
+During connection at 2150.0 m MD in SYN-FM-CHARLIE shale-sand transition, pipe remained stationary for 14 minutes. Unable to rotate or reciprocate drill string upon reconnection. Overpull reached 280 kN without movement.
+
+Non-Productive Time (NPT): 14.0 hours
+Mitigation Action: Spotted 12 m3 pipe-freeing surfactant pill, worked string within torque and tensile limits, jarred downward with 120 kN stroke.
+Outcome: Drill string freed after 8.5 hours of soaking and jarring; circulated hole clean and increased mud yield point.
+
+Lesson Learned:
+Maintain continuous pipe motion and avoid stationary connections exceeding 5 minutes in depleted sand intervals of SYN-FM-CHARLIE.
+================================================================================

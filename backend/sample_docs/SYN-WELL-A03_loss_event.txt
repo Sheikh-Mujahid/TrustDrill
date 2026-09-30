@@ -1,0 +1,12 @@
+SYNTHETIC DEMO DOCUMENT — not an Oil India Limited record.
+Well: SYN-WELL-A03
+Date: 2024-05-12
+MD: 1420.0 m
+TVD: 1390.0 m
+Formation: SYN-FM-BRAVO
+Event: mud loss / lost circulation of approximately 12 m3.
+Mud weight: 1.16 sg
+NPT: 6.5 hours
+Mitigation: pumped LCM pills in two stages and reduced flow rate.
+Outcome: circulation regained; drilling resumed with reduced ROP.
+Lesson learned: SYN-FM-BRAVO in this demo block shows loss-prone sandstone; stage LCM before entering the interval.

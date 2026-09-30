@@ -13,6 +13,15 @@ dist-ssr
 *.local
 *.zip
 
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated build output
+.next/
+*.tsbuildinfo
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

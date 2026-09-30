@@ -1,0 +1,5 @@
+# Optional extras — not required for core prototype functions
+sentence-transformers==3.3.1
+pytesseract==0.3.13
+redis==5.2.1
+slowapi==0.1.9

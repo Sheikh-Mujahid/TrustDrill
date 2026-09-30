@@ -1,0 +1,20 @@
+================================================================================
+SYNTHETIC DRILLING EVENT REPORT (DEMO USE ONLY - FICTIONAL DATA)
+================================================================================
+Well: SYN-WELL-A07
+Date: 2024-08-04
+Measured Depth (MD): 2840.0 m
+True Vertical Depth (TVD): 2710.0 m
+Formation: SYN-FM-DELTA
+Event Type: kick / overpressure influx
+
+Operational Summary:
+Drilling 6-1/8 inch slimhole section at 2840.0 m MD. Rapid ROP increase from 6 m/hr to 24 m/hr followed by 120 LPM flow-out excess over flow-in and 1.8 m3 pit gain in 6 minutes. Shut in well using annular BOP.
+
+Non-Productive Time (NPT): 18.0 hours
+Mitigation Action: Recorded SIDPP (3.4 MPa) and SICP (4.2 MPa). Circulated out gas kick using Wait and Weight method, weighted up mud from 1.35 SG to 1.44 SG.
+Outcome: Influx circulated out safely through choke manifold without loss of integrity. Well killed and stabilized.
+
+Lesson Learned:
+Formation pore pressure ramps steeply below 2800 m MD in Delta facies. Monitor ROP drilling breaks and flow differential continuously.
+================================================================================

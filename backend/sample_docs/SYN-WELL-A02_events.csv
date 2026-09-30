@@ -1,0 +1,4 @@
+well_uid,event_date,md_m,formation,event_type,npt_hours,mitigation,outcome,lesson_learned
+SYN-WELL-A02,2024-03-15,920.0,SYN-FM-ALPHA,tight_hole,3.5,Reamed tight interval with reduced flow,Hole cleared successfully,Back-ream before running 13-3/8 casing
+SYN-WELL-A02,2024-04-02,1680.0,SYN-FM-BRAVO,mud_loss,7.0,Pumped 10 m3 LCM pill and reduced SPM,Loss rate reduced to 0.2 m3/hr,Pre-treat mud when crossing 1600m MD
+SYN-WELL-A02,2024-04-28,2410.0,SYN-FM-CHARLIE,torque_spike,4.0,Adjusted mud lubricity and smoothed RPM,Torque fluctuations dampened,Ensure oil-based lubricant concentration > 2%
